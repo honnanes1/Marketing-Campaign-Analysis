@@ -14,7 +14,7 @@ it encompasses marketing campaign data from 2240 customers of Maven Marketing.
 # Project contributor
 Mohammed Hannane 
 --Gmail:honnanes1@gmail.com
-Mohamed Amine Oufroukhi
+; Mohamed Amine Oufroukhi
 --Gmail:oufroukhi66@gmail.com
 # Analysis and Visualization 
 ## Campaign
