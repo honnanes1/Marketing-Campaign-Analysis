@@ -11,4 +11,12 @@ making it an ideal resource for honing data exploration , analysis , and
 visualization skills within a real-world business context. Specifically,
 it encompasses marketing campaign data from 2240 customers of Maven Marketing.
 # Analysis and Visualization 
- 
+## Dashboard
+![Dashboard](https://github.com/honnanes1/Marketing-Campaign-Analysis/blob/ae41f13b41c52e84378abe455375d9f05c503afa/image/Dashboard.png)
+
+## Campaign
+![Campaign](https://github.com/honnanes1/Marketing-Campaign-Analysis/blob/df4a40db427974c806eb0c2bb5e741f01e24b470/image/campaign.png)
+## Channel 
+![Channel](https://github.com/honnanes1/Marketing-Campaign-Analysis/blob/df4a40db427974c806eb0c2bb5e741f01e24b470/image/channel.png)
+## Product 
+![Product](https://github.com/honnanes1/Marketing-Campaign-Analysis/blob/df4a40db427974c806eb0c2bb5e741f01e24b470/image/product.png)
