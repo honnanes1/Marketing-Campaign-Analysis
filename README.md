@@ -11,8 +11,12 @@ The dataset comprises of marketing campaign data for more than 2000 customers,
 making it an ideal resource for honing data exploration , analysis , and
 visualization skills within a real-world business context. Specifically,
 it encompasses marketing campaign data from 2240 customers of Maven Marketing.
+# Project contributor
+Mohammed Hannane 
+Gmail:honnanes1@gmail.com
+Mohamed Amine Oufroukhi
+Gmail:oufroukhi66@gmail.com
 # Analysis and Visualization 
-
 ## Campaign
 ![Campaign](https://github.com/honnanes1/Marketing-Campaign-Analysis/blob/df4a40db427974c806eb0c2bb5e741f01e24b470/image/campaign.png)
 ## Channel 
