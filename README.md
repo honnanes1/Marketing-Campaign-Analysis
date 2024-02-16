@@ -7,7 +7,7 @@ Key questions addressed are:
 - Which marketing campaign was the most successful?
 - Which countries have made the most purchases? 
 # About the dataset
-The dataset comprises marketing campaign data for more than 2000 customers, 
+The dataset comprises of marketing campaign data for more than 2000 customers, 
 making it an ideal resource for honing data exploration , analysis , and
 visualization skills within a real-world business context. Specifically,
 it encompasses marketing campaign data from 2240 customers of Maven Marketing.
